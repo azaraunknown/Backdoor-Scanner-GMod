@@ -13,7 +13,7 @@ This project is a Node.js-based script designed to scan directories for potentia
 
 1. **Clone the repository:**
    ```bash
-   git clone (need to publish first)
+   git clone https://github.com/azaraunknown/aBackdoorScanner.git
    cd lua-backdoor-scanner
    ```
 
